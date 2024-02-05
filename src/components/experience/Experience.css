@@ -1,0 +1,19 @@
+
+.main {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.main--big-img {
+  max-width: 80%;
+  align-self: center;
+}
+
+.main--title {
+  margin-bottom: 16px;
+}
+
+.main--text {
+  margin-top: 0;
+}

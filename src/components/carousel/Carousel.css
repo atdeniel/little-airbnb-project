@@ -1,0 +1,29 @@
+
+.carousel {
+    display: flex;
+    overflow: auto;
+    height: 500px;
+    width: 100%;
+}
+
+.carousel--item {
+    width: 276px;
+    padding: 10px;
+    flex-grow: 1;
+    flex: 0 0 auto;
+    scroll-snap-align: start;
+}
+
+
+.gray {
+    color: #918E9B;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+
+.photo--star {
+    height: 14px;
+}

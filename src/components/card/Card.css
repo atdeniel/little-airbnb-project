@@ -1,0 +1,41 @@
+
+.photo {
+    width: 100%;
+}
+
+.photo--status {
+    position: relative;
+    display: inline-block;
+}
+
+.photo-container {
+    height: 60%;
+    width: 90%;
+    position: relative;
+    display: inline-block;
+}
+
+.photo--status_text {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: white;
+    color: black;
+    padding: 5px; 
+    font-size: 10px; 
+    font-weight: bold; 
+    border-radius: 2px;
+    margin: 10px;
+}
+
+.gray {
+    color: #918E9B;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.photo--star {
+    height: 14px;
+}
